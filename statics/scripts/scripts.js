@@ -103,8 +103,8 @@ function highDefImages(entries, observer) {
 
 const obsOptsImg = {
   root: null,
-  threshold: [0.1, 0.15, 0.2, 0.25],
-  rootMargin: "200px",
+  threshold: [0, 0.1, 0.15, 0.2, 0.25],
+  rootMargin: "300px",
 };
 
 const lazyImagesObserver = new IntersectionObserver(highDefImages, obsOptsImg);
