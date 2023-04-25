@@ -2,7 +2,7 @@
 
 It's a fictional landing page of a lawyer buffete. Just to keep working with HTML + CSS and some Javascript.
 
-URL: https://espar-rodbar.es/advo-Cats-project/
+URL: https://espar-rodbar.github.io/advo-Cats-project/
 
 This is a project to practice basic HTML + CSS (&queries) and the use of IntersectionObserver for lazy image, and reveal sections. Implemented also a modal form and basic slides.
 
